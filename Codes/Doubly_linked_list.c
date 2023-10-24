@@ -1,4 +1,4 @@
-// Data structure exercise about double linked lists, in C
+// Data structure exercise about doubly linked lists, in C
 
 #include <stdio.h>
 #include <stdlib.h>
